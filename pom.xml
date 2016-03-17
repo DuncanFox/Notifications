@@ -11,5 +11,10 @@
         <module>NotificationsB</module>
     </modules>
 
+    <scm>
+        <url>https://github.com/DuncanFox/Notifications</url>
+        <connection>scm:git:git://github.com/DuncanFox/Notification.git</connection>
+        <developerConnection>scm:git:git@github.com:DuncanFox/Notifications.git</developerConnection>
+    </scm>
 
 </project>
